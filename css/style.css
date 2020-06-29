@@ -487,6 +487,9 @@ text-align:right;
     #image img{
         z-index:1;
     }
+    #home{
+        margin-top:70px;
+    }
     #brand img{
         width:30px;
         height:30px;
