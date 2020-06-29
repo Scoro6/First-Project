@@ -476,6 +476,17 @@ text-align:right;
 }
 /********************Extra Small Devices Only******************/
 @media screen and (max-width:500px){
+    #navbar{
+        position:fixed;
+        top:0px;
+        left:0px;
+    }
+    .nav-links{
+        z-index:3;
+    }
+    #image img{
+        z-index:1;
+    }
     #brand img{
         width:30px;
         height:30px;
