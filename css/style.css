@@ -488,14 +488,14 @@ text-align:right;
         z-index:1;
     }
     #home{
-        margin-top:90px;
+        margin-top:130px;
     }
     #brand img{
         width:30px;
         height:30px;
     }
     #brand{
-        width:70%;
+        width:65%;
         justify-content: space-evenly;
     }
     #nav-brand{
